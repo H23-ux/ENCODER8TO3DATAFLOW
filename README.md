@@ -59,7 +59,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot (31)](https://github.com/user-attachments/assets/44803411-7c11-4e70-a29b-bde3be2b7c20)
+![image](https://github.com/user-attachments/assets/eb106f69-6f5a-4626-a2b0-d426d2a6ec19)
+
 
 
 **RESULTS**
