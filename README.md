@@ -4,7 +4,9 @@
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:** Quartus prime
+**SOFTWARE REQUIRED:**
+
+Quartus prime
 
 **THEORY**
 
@@ -73,13 +75,13 @@ endmodule
 ![Screenshot (29)](https://github.com/user-attachments/assets/f4d01f31-07c2-4896-9d9b-905538b2459f)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAM FOR Encoder 8 To 3 in Dataflow Modelling**
 
 ![image](https://github.com/user-attachments/assets/eb106f69-6f5a-4626-a2b0-d426d2a6ec19)
 
 
 
-**RESULTS**
+**RESULT**
 
 Hence the Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
